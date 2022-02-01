@@ -3,4 +3,4 @@ Datasets in one place CV/ML
 
 GIS:
 
-[](logs/os.png)
+[](/logos/os.png)
