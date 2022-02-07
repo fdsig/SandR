@@ -1,15 +1,24 @@
+
 # Data Sources for Machine Learning Projects (ognoing) 
 Datasets in one place CV/ML
 
-## GIS:
+
+## GIS/Satelite :
 
 
-- [<img src="/logos/os.png" width="100" title="hover text">](https://osdatahub.os.uk/downloads/open?_ga=2.83663636.329132314.1643713558-770095519.1643713558) [OS](https://osdatahub.os.uk/downloads/open?_ga=2.83663636.329132314.1643713558-770095519.1643713558)vector maps etc
+- [<img src="/logos/os.png" width="100" title="hover text">](https://osdatahub.os.uk/downloads/open?_ga=2.83663636.329132314.1643713558-770095519.1643713558) [OS](https://osdatahub.os.uk/downloads/open?_ga=2.83663636.329132314.1643713558-770095519.1643713558) Vector maps etc
 
 - [<img src="/logos/OCP.png" width="100" title="hover text">](https://geoportal.statistics.gov.uk/datasets/ons::local-authority-districts-may-2021-uk-bfc/about) [ONS](https://geoportal.statistics.gov.uk/datasets/ons::local-authority-districts-may-2021-uk-bfc/about) Local Authority Boundary Data as .shp files.
 
 
-## Computer Vision:
+- [<img src="https://sedas.satapps.org/wp-content/uploads/2018/02/cropped-SEDAS-with-text-1.png" style="background-color:red;"  width="100" title="hover text">](https://sedas.satapps.org/) [SeDAS](https://sedas.satapps.org/) Sentinel satelite data available through [python api](https://pypi.org/project/sedas-pyapi/)
+
+
+
+
+
+
+## Computer Vision (Generic):
 
 - [PyTorch - CV Datasets](https://pytorch.org/vision/stable/datasets.html)
 - [Tensorflow - CV Datasets](https://www.tensorflow.org/datasets/catalog/overview#image)
