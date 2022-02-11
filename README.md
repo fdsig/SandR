@@ -43,12 +43,12 @@ Datasets in one place CV/𝕄𝕃
 > - [ImageNet](https://www.image-net.org/)
 
 ## NLP ✒️: 
-
-> [git data repository](https://github.com/niderhoff/nlp-datasets)
+> - Indiana Institute of Techonolgy [Corpora](https://www.iitp.ac.in/~ai-nlp-ml/resources.html##sentimentM) 
+> - GitHub lits [repository](https://github.com/niderhoff/nlp-datasets)
 
 ## Misc ML (ALL of Above):
 
->  [<img src="http://madm.dfki.de/lib/tpl/dfki/images/logo.jpg" width="100" title="hover text">](http://madm.dfki.de/downloads)[German Research Centre for Artificial Intelligence](http://madm.dfki.de/downloads)
+>  - [<img src="http://madm.dfki.de/lib/tpl/dfki/images/logo.jpg" width="100" title="hover text">](http://madm.dfki.de/downloads)[German Research Centre for Artificial Intelligence](http://madm.dfki.de/downloads)
 
 ## First Pricipals (maths, algorythms etc)
 
