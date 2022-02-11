@@ -8,7 +8,7 @@ Datasets in one place CV/𝕄𝕃
 > 
 >  - [Rise](https://rise.readthedocs.io/en/stable/) Interactive Presentations with runable code 
 > 
->  - [Colab](https://colab.research.google.com/) GPU/TPU access
+>  - [Colab](https://colab.research.google.com/) GPU/TPU access ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 > 
 >  - [Sphinx](https://www.sphinx-doc.org/en/master/)𓂀 Python Documentation generator 
 >   
