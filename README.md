@@ -58,6 +58,16 @@ Datasets in one place CV/𝕄𝕃
 
 > - Book [maths of machine leanring ](https://mml-book.github.io/), associated [ropository](https://github.com/mml-book/mml-book.github.io)
 > - Book [Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/)
+> - Course site [explaining cnns for vision](https://cs231n.github.io/convolutional-networks/)
+
+## Worked Examples 
+
+> |Type|Notebook|
+> |-|-|
+> |Evaluation Metrics|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WF8nD05C3Gnum5wGxSsjWepJjhwSHbhy)|
+> |Image Restoration (ViT)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R_RHff93lEPE6aLTkQYI5Ni2Qo5-832M)|
+> | Visualizing ViTs |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hirotomusiker/schwert_colab_data_storage/blob/master/notebook/Vision_Transformer_Tutorial.ipynb)|
+
 
 
 
