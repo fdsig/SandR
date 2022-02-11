@@ -50,6 +50,12 @@ Datasets in one place CV/𝕄𝕃
 
 >  [<img src="http://madm.dfki.de/lib/tpl/dfki/images/logo.jpg" width="100" title="hover text">](http://madm.dfki.de/downloads)[German Research Centre for Artificial Intelligence](http://madm.dfki.de/downloads)
 
+## First Pricipals (maths, algorythms etc)
+
+> - Book [maths of machine leanring ](https://mml-book.github.io/), associated [ropository](https://github.com/mml-book/mml-book.github.io)
+> - Book [Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/)
+
+
 
 
 
