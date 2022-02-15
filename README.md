@@ -57,6 +57,10 @@ Datasets in one place CV/𝕄𝕃
 ## Computer Vision Image Classification:
 > - [Oxford Flower Dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/)
 
+## 3d Imaging:
+
+> - [Shape Net](https://www.shapenet.org/)
+
 
 ## NLP ✒️: 
 > - Indiana Institute of Techonolgy [Corpora](https://www.iitp.ac.in/~ai-nlp-ml/resources.html##sentimentM) 
