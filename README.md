@@ -32,7 +32,7 @@ Datasets in one place CV/𝕄𝕃
 
 
 
-## Computer Vision 👀:
+## Computer Vision (Wider Domains)👀:
 > 
 > <img src="https://www.ifpenergiesnouvelles.com/sites/ifpen.fr/files/inline-images/NEWSROOM/Lettre%20Science%40IFPEN/Science%2045/VA-06-Segmentation.gif"  width="200" title="hover text">
 > 
@@ -40,12 +40,23 @@ Datasets in one place CV/𝕄𝕃
 > - [Tensorflow - CV Datasets](https://www.tensorflow.org/datasets/catalog/overview#image)
 > - [CVonline: Image Databases](https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm)
 > - [Yet Another Computer Vision Index To Datasets (YACVID)](http://yacvid.hayko.at)
-> - [Kaggle](https://www.kaggle.com/datasets?tags=13207-Computer+Vision)
+
 > - [PaperWithCode](https://paperswithcode.com/area/computer-vision)
 > - [RoboFlow](https://public.roboflow.com)
 > - [VisualData](https://visualdata.io/discovery)
 > - [CUHK Computer Vision](http://www.ee.cuhk.edu.hk/~xgwang/datasets.html)
 > - [ImageNet](https://www.image-net.org/)
+> - [Oxford Visual Geometry Group (VGG)](https://www.robots.ox.ac.uk/~vgg/data/)
+
+## Computer Vision (Medical Imaging):
+
+> - [Brain Imagery](https://www.oasis-brains.org/#access)
+> - [Chest X-ray](https://nihcc.app.box.com/v/ChestXray-NIHCC)
+> - [Stanford Medical](https://aimi.stanford.edu/research/public-datasets)
+
+## Computer Vision Image Classification:
+> - [Oxford Flower Dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/)
+
 
 ## NLP ✒️: 
 > - Indiana Institute of Techonolgy [Corpora](https://www.iitp.ac.in/~ai-nlp-ml/resources.html##sentimentM) 
