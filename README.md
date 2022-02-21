@@ -29,6 +29,22 @@ Datasets in one place CV/𝕄𝕃
 >  
 > - [copernicus](https://scihub.copernicus.eu) EU satelite data available through [api](https://scihub.copernicus.eu/userguide/ODataAPI) [<img src="https://scihub.copernicus.eu/twiki/pub/TWiki/DataHubSkin/copernicus-02.png" style="background-color:red;"  width="50" title="hover text">](https://scihub.copernicus.eu)
 
+## Political/Conflict:
+
+> - Stockholm International Peace Research Institute [SPIRI Databases](https://www.sipri.org/databases)
+> - The Peace Research Institute Oslo (PRIO) [datasets](https://www.prio.org/data)
+> - Journal of Peace Research (JPR) [datasets](https://www.prio.org/journals/jpr/replicationdata)
+> - The Armed Conflict Location & Event Data Project [DATA EXPORT TOOL](https://acleddata.com/data-export-tool/)
+> - Global Terrorism Database [database](https://www.start.umd.edu/gtd/)
+> - University of Central Florida [Conflict, War and Terrorism list] (https://guides.ucf.edu/war/wardata)
+
+
+## Demographics/Migration/People/Gender/Equalities:
+
+> - Women Stats Project [dataset](https://www.womanstats.org/)
+> - UK Home Office Migration Statistics [dataset](https://www.gov.uk/government/collections/migration-statistics)
+
+
 
 
 
