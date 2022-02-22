@@ -36,7 +36,7 @@ Datasets in one place CV/𝕄𝕃
 > - Journal of Peace Research (JPR) [datasets](https://www.prio.org/journals/jpr/replicationdata)
 > - The Armed Conflict Location & Event Data Project [DATA EXPORT TOOL](https://acleddata.com/data-export-tool/)
 > - Global Terrorism Database [database](https://www.start.umd.edu/gtd/)
-> - University of Central Florida [Conflict, War and Terrorism list] (https://guides.ucf.edu/war/wardata)
+> - University of Central Florida ![Conflict, War and Terrorism list](https://guides.ucf.edu/war/wardata)
 
 
 ## Demographics/Migration/People/Gender/Equalities:
