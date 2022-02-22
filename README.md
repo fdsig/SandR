@@ -43,6 +43,8 @@ Datasets in one place CV/𝕄𝕃
 
 > - Women Stats Project [dataset](https://www.womanstats.org/)
 > - UK Home Office Migration Statistics [dataset](https://www.gov.uk/government/collections/migration-statistics)
+> - Organization for Economic Coeperation and Development [International Migration](https://stats.oecd.org/Index.aspx?DataSetCode=MIG)
+> - Migration Data Portal collated by International Organization for Migration (IOM) [datasets](https://www.migrationdataportal.org/themes/iom-data-overview)
 
 
 
