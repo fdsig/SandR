@@ -82,11 +82,12 @@ Datasets in one place CV/𝕄𝕃
 
 ## NLP ✒️: 
 > - Indiana Institute of Techonolgy [Corpora](https://www.iitp.ac.in/~ai-nlp-ml/resources.html##sentimentM) 
-> - GitHub lits [repository](https://github.com/niderhoff/nlp-datasets)
 > - [Stanford NLP home](https://github.com/stanfordnlp/CoreNLP)>
 >  [Corpus](https://nlp.stanford.edu/projects/snli/) >
 >  [Stanford NLP resources](https://nlp.stanford.edu/links/statnlp.html) > 
 >   [code](https://github.com/stanfordnlp/CoreNLP) >
+> - [Stanford NLP home](https://github.com/stanfordnlp/CoreNLP) >
+>   Stanford Sentiment Analisis [dataset](https://nlp.stanford.edu/sentiment/)
 
 ## Misc ML (ALL of Above):
 
