@@ -90,6 +90,15 @@ Datasets in one place CV/𝕄𝕃
 > - Stanford Sentiment Analisis [dataset](https://nlp.stanford.edu/sentiment/)
 > - Stanford Amazone Reviews [dataset](https://snap.stanford.edu/data/web-Amazon.html)
 > - Conrnell Movie Dialoge Corpus [dataset](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
+> - Project Gutenberg Corpus [python library](https://github.com/pgcorpus/gutenberg)
+> - Twitter [api](https://developer.twitter.com/en/docs)
+
+
+## Transport:
+> - Open Fligts dataset (https://openflights.org/data.html)
+> - Airline Time Performance (https://community.amstat.org/jointscsg-section/dataexpo/dataexpo2009)
+> - Transport for London (TfL) Bike Point [api](https://api.tfl.gov.uk/swagger/ui/index.html?url=/swagger/docs/v1#!/BikePoint/BikePoint_GetAll)
+
 
 ## Misc ML (ALL of Above):
 
