@@ -87,7 +87,9 @@ Datasets in one place CV/𝕄𝕃
 >  [Stanford NLP resources](https://nlp.stanford.edu/links/statnlp.html) > 
 >   [code](https://github.com/stanfordnlp/CoreNLP) >
 > - [Stanford NLP home](https://github.com/stanfordnlp/CoreNLP) >
->   Stanford Sentiment Analisis [dataset](https://nlp.stanford.edu/sentiment/)
+> - Stanford Sentiment Analisis [dataset](https://nlp.stanford.edu/sentiment/)
+> - Stanford Amazone Reviews [dataset](https://snap.stanford.edu/data/web-Amazon.html)
+> - Conrnell Movie Dialoge Corpus [dataset](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 
 ## Misc ML (ALL of Above):
 
