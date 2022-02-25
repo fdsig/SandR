@@ -95,8 +95,8 @@ Datasets in one place CV/𝕄𝕃
 
 
 ## Transport:
-> - Open Fligts dataset (https://openflights.org/data.html)
-> - Airline Time Performance (https://community.amstat.org/jointscsg-section/dataexpo/dataexpo2009)
+> - Open Fligts [dataset](https://openflights.org/data.html)
+> - Airline Time Performance [dataset](https://community.amstat.org/jointscsg-section/dataexpo/dataexpo2009)
 > - Transport for London (TfL) Bike Point [api](https://api.tfl.gov.uk/swagger/ui/index.html?url=/swagger/docs/v1#!/BikePoint/BikePoint_GetAll)
 
 
