@@ -75,6 +75,10 @@ Datasets in one place CV/𝕄𝕃
 ## Computer Vision Image Classification:
 > - [Oxford Flower Dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/)
 
+## Aesthetics and Image Quality Assesmet:
+
+> - [Victoria and Albert Musium API](https://www.vam.ac.uk/blog/digital/va-launches-new-developer-api)
+
 ## 3d Imaging:
 
 > - [Shape Net](https://www.shapenet.org/)
