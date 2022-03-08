@@ -58,8 +58,8 @@ Datasets in one place CV/𝕄𝕃
 > - [Tensorflow - CV Datasets](https://www.tensorflow.org/datasets/catalog/overview#image)
 > - [CVonline: Image Databases](https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm)
 > - [Yet Another Computer Vision Index To Datasets (YACVID)](http://yacvid.hayko.at)
-
-> - [PaperWithCode](https://paperswithcode.com/area/computer-vision)
+>
+> - [PapersWithCode](https://paperswithcode.com/area/computer-vision)
 > - [RoboFlow](https://public.roboflow.com)
 > - [VisualData](https://visualdata.io/discovery)
 > - [CUHK Computer Vision](http://www.ee.cuhk.edu.hk/~xgwang/datasets.html)
@@ -80,7 +80,8 @@ Datasets in one place CV/𝕄𝕃
 > - [Victoria and Albert Musium API](https://www.vam.ac.uk/blog/digital/va-launches-new-developer-api)
 
 ## 3d Imaging:
- <img src="https://pytorch3d.org/img/pytorch3dfavicon.png" style="background-color:red;"  width="100" title="hover text">
+> <img src="https://pytorch3d.org/img/pytorch3dfavicon.png" style="background-color:red;"  width="100" title="hover text">
+>
 > - [Shape Net](https://www.shapenet.org/)
 > - [Pytorch 3d](https://pytorch3d.org/)
 
