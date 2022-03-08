@@ -80,8 +80,9 @@ Datasets in one place CV/𝕄𝕃
 > - [Victoria and Albert Musium API](https://www.vam.ac.uk/blog/digital/va-launches-new-developer-api)
 
 ## 3d Imaging:
-
+ <img src="https://pytorch3d.org/img/pytorch3dfavicon.png" style="background-color:red;"  width="100" title="hover text">
 > - [Shape Net](https://www.shapenet.org/)
+> - [Pytorch 3d](https://pytorch3d.org/)
 
 
 ## NLP ✒️: 
