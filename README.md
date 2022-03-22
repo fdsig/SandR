@@ -126,9 +126,9 @@ Datasets in one place CV/𝕄𝕃
 > |Image Restoration (ViT)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R_RHff93lEPE6aLTkQYI5Ni2Qo5-832M)|
 > | Visualizing ViTs |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hirotomusiker/schwert_colab_data_storage/blob/master/notebook/Vision_Transformer_Tutorial.ipynb)|
 
+## Python 
 
-
-
+> - [Low Level .jpg in python ](https://practicalpython.yasoob.me/toc.html)
 
 
 
