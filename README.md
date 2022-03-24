@@ -1,6 +1,6 @@
 
-# Data Sources and Utilities for ML (ognoing) 
-Datasets in one place CV/𝕄𝕃
+# Sources and Resources (SandR)
+Computer Vision and Machine learning in one place.
 
 ## Interactive computing in notbooks and documentation utils👩🏻‍💻:
 >  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cb633d87-39ee-44c3-ac93-827493cc9009/dd8dkvq-e3201e08-226d-48d6-bddb-7916c14a9e4a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NiNjMzZDg3LTM5ZWUtNDRjMy1hYzkzLTgyNzQ5M2NjOTAwOVwvZGQ4ZGt2cS1lMzIwMWUwOC0yMjZkLTQ4ZDYtYmRkYi03OTE2YzE0YTllNGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oug0XJVqKTelefgt6y3NV4jfxQSluWPQKDmB0PPKvYI" style="background-color:red;"  width="100" title="hover text">
