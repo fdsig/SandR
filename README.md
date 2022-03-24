@@ -18,8 +18,10 @@ Datasets in one place CV/𝕄𝕃
 
 ## Model Tuning:
 
-[optuna](https://optuna.org/)
-[ray](https://docs.ray.io/en/latest/tune/index.html)
+>
+> - [optuna](https://optuna.org/)
+>
+> - [ray](https://docs.ray.io/en/latest/tune/index.html)
 
 ## GIS/Satelite 🛰:
 
