@@ -14,7 +14,12 @@ Datasets in one place CV/𝕄𝕃
 >  - [Sphinx](https://www.sphinx-doc.org/en/master/)𓂀 Python Documentation generator 
 >   
 >  - [MyST-nb](https://myst-nb.readthedocs.io/en/v0.8.4/index.html) Notebooks to markdown with extended css [<img src="https://myst-nb.readthedocs.io/en/v0.8.4/_static/logo.png" width="50" title="hover text">](https://myst-nb.readthedocs.io/en/v0.8.4/index.html)  
->  
+
+
+## Model Tuning:
+
+[optuna](https://optuna.org/)
+[ray](https://docs.ray.io/en/latest/tune/index.html)
 
 ## GIS/Satelite 🛰:
 
