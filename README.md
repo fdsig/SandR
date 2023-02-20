@@ -114,7 +114,7 @@ Computer Vision and Machine learning in one place.
 > - Transport for London (TfL) Bike Point [api](https://api.tfl.gov.uk/swagger/ui/index.html?url=/swagger/docs/v1#!/BikePoint/BikePoint_GetAll)
 ## Audio
 
-[RAVE]() [publication](https://arxiv.org/abs/2111.05011)
+[RAVE](https://github.com/acids-ircam/RAVE) --  [publication](https://arxiv.org/abs/2111.05011)
 
 ## Misc ML (ALL of Above):
 
